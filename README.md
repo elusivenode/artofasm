@@ -1,1 +1,1 @@
-# The art of assembly
+# The art of assembly - with SSH connection :)
